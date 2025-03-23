@@ -57,12 +57,6 @@ uvicorn app:app --reload
 
 API sẽ khả dụng tại `http://localhost:8000`
 
-## 📚 Tài liệu API
-
-Khi máy chủ đang chạy, truy cập tài liệu API tự động tại:
-- 📘 Swagger UI: `http://localhost:8000/docs`
-- 📖 ReDoc: `http://localhost:8000/redoc`
-
 ### 🔌 Các Endpoint
 
 #### 🖼️ Phân loại Hình ảnh
